@@ -137,10 +137,10 @@
             <GameDBLocalizedString>    <LocID>NAME_SURNAME_FEMALE_40</LocID>    <Text>Zárate</Text>  </GameDBLocalizedString>
             
             <!-- Insurance companies -->
-            <GameDBLocalizedString>    <LocID>IN_COM_NONE</LocID>             <Text>Desasegurado</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_NONE</LocID>             <Text>Sin Seguro</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_AAA</LocID>              <Text>AsegúraME</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_BBB</LocID>              <Text>iSeguros</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>    <LocID>IN_COM_CCC</LocID>              <Text>Seguros pajarito</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>    <LocID>IN_COM_CCC</LocID>              <Text>Seguros Pajarito</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_DDD</LocID>              <Text>Segura Hnos.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_EEE</LocID>              <Text>ViveMás</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>    <LocID>IN_COM_FFF</LocID>              <Text>Seguros EconomiK</Text>  </GameDBLocalizedString>
