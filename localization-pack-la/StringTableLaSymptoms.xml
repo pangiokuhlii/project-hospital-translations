@@ -62,7 +62,7 @@
             <GameDBLocalizedString>      <LocID>SYM_BREATHING_DIFFICULTIES_DESCRIPTION</LocID>              <Text>Unspecified breathing difficulties.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BRUISE</LocID>                                          <Text>Bruise</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BRUISE_DESCRIPTION</LocID>                              <Text>Typical tissue hematoma of affected area caused by capillary damage due to a trauma.</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SYM_BURNING_EYE</LocID>                                     <Text>Burning eye</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SYM_BURNING_EYE</LocID>                                     <Text>Burning ey</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BURNING_EYE_DESCRIPTION</LocID>                         <Text>Burning eye sensation caused by eye infection or irritation.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BUTTERFLY_RASH</LocID>                                  <Text>Butterfly rash</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SYM_BUTTERFLY_RASH_DESCRIPTION</LocID>                      <Text>Specific unique rash on the back in the shape of butterfly wings.</Text>  </GameDBLocalizedString>
